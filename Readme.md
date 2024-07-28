@@ -1,7 +1,7 @@
-Here's the updated `README.md` file with the additional contact information:
 
 ```markdown
 # Resume ATS for Hiring Manager
+![image](https://github.com/user-attachments/assets/a25f89a5-63f9-427b-bce2-074fa709fb32)
 
 This project provides a Streamlit application that helps hiring managers improve resumes using an ATS (Applicant Tracking System) by evaluating resumes based on a given job description.
 
